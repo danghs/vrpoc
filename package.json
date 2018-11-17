@@ -1,0 +1,16 @@
+{
+  "name": "browserless vr poc",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "author": "Daniel Hicks",
+  "license": "ISC",
+  "description": "A POC for browserless vr testing",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "jest-image-snapshot": "^2.7.0",
+    "node-cmd": "^3.0.0",
+    "wkhtmltoimage": "^0.1.5"
+  }
+}
